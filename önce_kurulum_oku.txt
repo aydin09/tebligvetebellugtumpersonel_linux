@@ -1,0 +1,31 @@
+uçbirim_öykünücüsü_ile_birlikte_aç
+
+dosyasını seçip sağ tıklayıp 
+
+Özellikler...>İzinler>Program>Bu dosyanın bir program olarak çalışmasına izin ver
+
+kutucuğunu işaretleyip çıkalım.
+
+Sonra 
+
+uçbirim_öykünücüsü_ile_birlikte_aç
+
+dosyasını seçip sağ tıklayıp 
+
+Birlikte Aç>Diğer Uygulama ile Aç>Diğer Uygulamalar>Uçbirim Öykünücüsü
+
+nü seçip alttaki 
+
+Bu tür dosyalar için öntanımlı olarak kullan
+
+seçeneğini seçip Aç butonuna basınız.
+
+Kurulum bittiğinde times new roman fontunu kurunuz.
+
+Ardından tebligvetebellugtumpersonel.deb paketini seçip sağ tıklayıp 
+
+"Deepin Paket Yöneticisi" ile Aç'a basıp kurulumu tamamlayınız.
+
+tebligvetebellugtumpersonel kısayolu
+
+Pardus>Eğitim menüsünün içindedir.
